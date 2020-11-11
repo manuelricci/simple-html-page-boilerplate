@@ -12,10 +12,10 @@ Run webpack
 
 ```
 // For production use this command.
-npm run build
+npm run build:prod
 
 // or this one for development.
-npm run serve
+npm run build
 ```
 
 Done! You can start your development journey.
